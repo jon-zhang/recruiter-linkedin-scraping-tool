@@ -4,6 +4,9 @@ This commissioned tool was used to scrap a unique recruiter interface of linkedi
 
 Technologies used:
 Django for server
+
 Backend Python logic
+
 noSQL database
+
 hosted on a virtual ubuntu droplet
